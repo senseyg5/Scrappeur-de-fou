@@ -24,10 +24,10 @@ Va sur CoinMarketCap et fait un programme qui va récupérer le cours de toutes 
 <p>Le CEO de get-email-corp a besoin de tes services. Il voudrait toutes les adresses email des mairies du Val d'Oise. Quelle coincidence, tu viens d'apprendre à le faire. Va sur cet annuaire des mairies et va récupérer les adresses emails des mairies du Val d'Oise. Comme pour l'exercice précédent, tu devras enregistrer les données dans une array de hash qui doit avoir le format suivant :</p><br>
 
 <b>a = [  { "ville_1" => "email_1" },  { "ville_2" => "email_2" },  etc ]</b><br>
-
-<h4>get_townhall_email(townhall_url): </h4><br>
-<p>qui récupère l'email d'une mairie à partir de l'URL de cette dernière, par exemple celle de Avernes</p><br>
-<h4>get_townhall_urls: </h4><br>
+<p>Cette partie comporte 2 methodes: </p><br>
+<h4>A- get_townhall_email(townhall_url): </h4><br>
+<p>Qui récupère l'email d'une mairie à partir de l'URL de cette dernière, par exemple celle de Avernes</p><br>
+<h4>B- get_townhall_urls: </h4><br>
 <p>Qui va récupérer toutes les URLs des villes du Val d'Oise.</p><br>
 
 # 3- Route des députés
